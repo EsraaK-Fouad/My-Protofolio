@@ -1,224 +1,128 @@
-## Welcome to Esraa Khaled Website
- I have always been passionate in the Machine Learning, and Data Science fields. After graduating from Systems and Biomedical department, Faculty of Engineering, Cairo University in 2021 with very good grade with honors. I got an internship opportunity from Ministry of Communication to make my master's degree. With a master's degree in Artificial Intelligence and Data Science from Queen's University, Canada, that I have just finished, this made me gain a lot of experience in those fields. During my study through the college years, and through the master's, I worked on vast Python based projects. So, I have excellent knowledge in it.I used it in several fields in the AI development field, as I made many projects in Natural Language Processing (NLP), Computer Vision, Machine Learning, Deep Learning, Data Science, Big Data, Data Analysis, and Business Intelligence.​I am Looking for an interactive and innovative environment where I can apply and develop my knowledge and skills.
 
-Enjoy! (;
+# 🌟 Esraa Khaled — AI Engineer & Data Scientist
 
-# <center>Esraa Khaled Ahmed
- e_mail: Esraa.k.fouad@gmail.com |https://github.com/EsraaK-Fouad
- 
- telephone:+20 1003191020 |Address: Egypy, Cairo
+Welcome to my **personal portfolio website**, showcasing my experience, education, publications, and a diverse range of AI, Machine Learning, NLP, and Computer Vision projects.
 
+---
 
-## <span style ="color:blue">**Education**
-- *__Cairo University__ Granted The Degree With A Cumulative Rate Of Appreciation Very Good With Honor Degree
-Sep 2016 - Aug 2021
+## 🧠 About Me
 
-- *__Queen University__ AI AND DATA SCIENCE MASTER’S STUDENT AT QUEENS UNIVERSITY,CANADA. Granted The Degree With A Cumulative Rate Of Appreciation Excellent Degree·
-Jan 2022 - Oct 2023
-   
+I’m an **AI Engineer and Data Scientist** passionate about creating impactful machine learning and deep learning solutions.
+I hold an **M.Sc. in Artificial Intelligence and Data Science** from **Queen’s University, Canada**, and a **B.Sc. in Biomedical Engineering** from **Cairo University**.
+Over the years, I’ve worked on numerous **Python-based projects** spanning **NLP, Computer Vision, Data Science, and Big Data** — blending research with real-world applications.
 
+> “I’m always seeking innovative and interactive environments to apply and grow my technical expertise.”
 
-## <span style ="color:blue">**Work Experience**</span>
+---
 
-- AI Engineer At Rology
+## 🧾 Education
 
-MY WORK INVOLVED CREATING AND CONSTRUCTING MODELS THAT CAN ACCURATELY IDENTIFY THE LOCATION OF TUMORS IN CT AND MRI IMAGES. I UTILIZED VARIOUS SOFTWARE TOOLS SUCH AS 3D SLICER, ORTHCAN, AND AWS TO DEPLOY THESE MODELS AND CREATE USER-FRIENDLY INTERFACES.(July2023 - Oct 2023)
+| Degree                              | Institution                 | Duration            | Notes                    |
+| ----------------------------------- | --------------------------- | ------------------- | ------------------------ |
+| **M.Sc. in AI & Data Science**      | Queen’s University (Canada) | Jan 2022 – Oct 2023 | Graduated with Excellent |
+| **B.Sc. in Biomedical Engineering** | Cairo University            | Sep 2016 – Aug 2021 | Very Good with Honors    |
 
-- AWS Certified Cloud Practitioner (Certification)
+---
 
-I GAINED A FUNDAMENTAL UNDERSTANDING OF IT SERVICES AND THEIR USES IN THE AWS CLOUD.I COVERED ALL ESSENTIAL AWS SERVICES AND FOUNDATIONAL AWS KNOWLEDGE.
-(Jan 2023)
+## 💼 Professional Experience
 
-- Microsoft Certified: Azure Data Scientist Associate (Certification)
+* **Data Scientist – NadSoft (Mar 2025 – Present)**
+  Research and development in **Arabic NLP**, conversational AI, and lightweight fine-tuning for small-scale LLMs.
 
-I GAINED THE SKILLS AND KNOWLEDGE TO APPLY AZURE’S MACHINE LEARNING TECHNIQUES TO TRAIN, EVALUATE, AND DEPLOY MODELS THAT SOLVE BUSINESS PROBLEMS(Dec 2022)
+* **Computer Vision Engineer – Namaa (Nov 2023 – Dec 2024)**
+  Developed AI-based **traffic management** and **road maintenance** solutions using Streamlit & AWS.
 
-- Huawei Certified HCIA-AI (Certification)
+* **AI Engineer – Rology (Jul 2023 – Oct 2023)**
+  Built **medical imaging models** for tumor detection using **CT/MRI scans**, integrated with AWS.
 
-I GAINED A FUNDAMENTAL UNDERSTANDING OF MACHINE LEARNING , DEEP LEARNING AND HUAWEI SERVICES(MIND-SPORE FRAMEWORK). (Dec 2022)
+* **Clinical Engineer – Shefa Al-Orman Hospital (Sep 2021 – Sep 2022)**
+  Maintained and validated **medical equipment**; implemented preventive maintenance systems.
 
-- Clinical Engineer At Shefa Al-Orman Hospital In Luxor
+---
 
-I WAS RESPONSIBLE FOR MAINTAINING AND VALIDATING EQUIPMENT. ALSO, I MANAGED THE PLAN OF MAINTENANCE AND VALIDATION.(sep 2021 - sep2022)
+## 📚 Publications
 
-- AZURE AI Fundamentals (Certification) 
+* **[Star at PalmX 2025: Arabic Cultural Understanding via Targeted Pretraining and Lightweight Fine-tuning](https://aclanthology.org/2025.arabicnlp-sharedtasks.113/)**
+  *ACL Anthology, ArabicNLP 2025 Shared Tasks*
+  Research on enhancing Arabic cultural and dialectal understanding through domain-targeted pretraining.
 
-I GOT TO BE MORE AWARE OF AZURE BOT SERVICES , AZURE MACHINE LEARNING AND COGNITION SERVICES.(April 2021)
+---
 
-- Data Analysis Challenger (Certification)
+## 🧩 Technical Skills
 
-I LEARNT HOW TO USE STATISTICS AND VISUALS TO FIND INSIGHTS AND ANALYSIS DATA . DEVELOP EXCEL SKILLS TO MANIPULATE, ANALYZE, AND VISUALIZE DATA IN A SPREADSHEET.(October 2020)
+| Category                   | Tools & Technologies                                                  |
+| -------------------------- | --------------------------------------------------------------------- |
+| **Programming**            | Python, R, C++, C, Matlab, Scala, Flutter                             |
+| **AI & ML**                | Machine Learning, NLP, Computer Vision, Deep Learning, RAG, LangChain |
+| **Libraries & Frameworks** | PyTorch, TensorFlow, MONAI, OpenCV, Keras, Scikit-learn, YOLO         |
+| **Databases**              | MySQL, Spark, Hadoop, Hive                                            |
+| **Visualization**          | Seaborn, Matplotlib, Power BI, Streamlit                              |
+| **Cloud & Deployment**     | AWS, Azure, Docker                                                    |
+| **Documentation**          | LaTeX, Markdown, MS Office                                            |
 
-- Trainee At Siemens Healthineers (Certification)
+---
 
-I GOT TO BE MORE AWARE OF A LABORATORY AND RADIOLOGY EQUIPMENT.I GET TO BE MORE AWARE OF A LABORATORY AND RADIOLOGY EQUIPMENT.(Sep 2020)
+## 🏅 Certifications
 
-- Maharat Min Google (Certification)
+* AWS Certified Cloud Practitioner (Jan 2023)
+* Microsoft Certified: Azure Data Scientist Associate (Dec 2022)
+* Huawei Certified HCIA–AI (Dec 2022)
+* Azure AI Fundamentals (Apr 2021)
+* Data Analysis Challenger – Udacity (Oct 2020)
+* Siemens Healthineers Trainee (Sep 2020)
+* Maharat Min Google – Fundamentals of Digital Marketing (Sep 2020)
 
-TRAINING COURSE IN FUNDAMENTALS OF DIGITAL MARKETING.(Sep 2020)
+---
 
-- Trainee At South Valley University Hospital
+## 🚀 Featured Projects
 
-TRAINEE IN THE HOSPITAL IN MAINTENANCE AND FINDING HARDWARE TROUBLESHOOT THAT HAPPENS IN VENTILATORS, INCUBATORS, AND SYRINGE PUMP DEVICES.(July 2019 - August 2019)
+### 🗣️ NLP Projects
 
-- Medical Planning And Clinical Solutions Company (MPCS)
+* [Sentimental Analysis using PySpark](https://github.com/EsraaK-Fouad/Sentimental_Analysis_using_pyspark)
+* [Topic Modeling with BERT + LDA](https://www.kaggle.com/code/marinamaher/bert-models-mixer-lda/notebook)
+* [NASA Search Engine](https://www.kaggle.com/code/marinamaher/bert-models-mixer-lda/notebook)
 
-TRAINING COURSE IN MEDICAL EQUIPMENT-LEVEL 1.(July 2018)
+### 🤖 Machine Learning
 
-- Technical Centre For Career Development At Cairo University
+* [COVID-19 Outcome Prediction](https://github.com/EsraaK-Fouad/COVID-19-Outcome-Prediction-project)
+* [Breast Cancer Classification (CNN)](https://www.kaggle.com/code/esraakhaled/breakhis-classification-model/notebook)
+* [Hospital Readmission Prediction](https://github.com/EsraaK-Fouad/Hospital-Readmission-using-machine-learning-)
+* [Diabetes Prediction](https://github.com/EsraaK-Fouad/diabetics-prediction-using-machine-learning)
 
-PARTICIPATED IN A ROBOTIC ARM SCIENTIFIC RESEARCH PROJECT FOR THE MATHEMATICS COURSE MTH124 IN THE 2ND UNDERGRADUATE ENGINEERING MATHEMATICS RESEARCH FORUM ANDTAKE A SECOND PLACE.(May 2018)
+### 👁️ Computer Vision
 
+* Face Recognition using PCA
 
-## <span style ="color:blue">**Skills**</span>
+### 🎵 DSP Projects
 
-  **Programming**
+* [Sound Equalizer App](https://github.com/EsraaK-Fouad/Equalizer-App-)
+* [Shazam-like App](https://github.com/EsraaK-Fouad/Shazam-App)
+* [Musical Instruments App](https://github.com/EsraaK-Fouad/Musical-Instruments-piano-Guitar--APP)
 
+### 🌐 Web Development
 
-- R language 
-- MYSQL and dataBase
-- good background in C++
-- good background about data structures
-- good background in Ardunio
-- web design
-- Paython
-- C
-- Matlab
-- flutter
-- scala
+* [CMMS Website](https://github.com/EsraaK-Fouad/CMMS-Website)
 
+---
 
-**typography** 
+## 🏆 Achievements
 
+* **NASA Space Apps Challenge – Giza (2020)**
+  Built a search engine for disaster-related NASA datasets.
+* **STP’20 Machathon 1.1 – COVID-19 Batch Competition**
+  Designed ML-powered predictive systems for healthcare.
 
-- LaTeX 
-- Markdown 
-- Microsoft Office
+---
 
-**Data Base**
+## 📫 Contact Me
 
-- MYSQL
-- Spark
-- Hadoop
-- Hive
-- Pig
-
-**Technical Skills**
-
-- Machine learning
-- Natural Language Processing
-- Data structures
-- computer vision
-- Mobile Application
-
-**Tools**
-
-- Ardunio
-- Git
-- Github
-- Proteus
-- Simulink
-- Microsoft Office
-## <span style ="color:blue"> **competitions**
-
-  - NASA Space Apps Giza (Certification )
-
-BUILT A SEARCH ENGINE TO FIND THE ARTICLES RELATED TO NASA DATA AND NATURAL DISASTERS AS ON THIS NOTEBOOK.(October 2020)
-
-- STP’20 Machathon 1.1 COVID- 19 BATCH Competition
-
-BUILT A SEARCH ENGINE TO FIND THE ARTICLES RELATED TO COVID 19 AS ON THIS NOTEBOOK.(June 2020)
-
-- STP’20 Machathon 1.0 Competition
-
-PARTICIPATE IN MAIN COMPETITION .THIS COMPETITION WAS 2 PHASES: FILTRATION PHASE AND FINAL PHASE. 1. IN THE FILTRATION PHASE, WE BUILT A MACHINE MODEL THAT PREDICT THE TOTAL OIL PRODUCTION IN THE NEXT 6 MONTHS. THE DATA WE USED IS REAL DATA FOR RAISA OIL AND GAS 2. IN THE LAST PHASE , WE BUILT A MACHINE MODEL FOR RESTAURANT PREDICT RATE OF EACH MEAL IN RESTAURANT’S MENU.(Feb 2020)
-
-- STP’20 Machathon 1.0 Competition
-
-PARTICIPATE IN MINI COMPETITION BELONGS TO OPTOMATICA COMPANY AND BUILT A CHAT BOT.(Feb 2020)
-
-- Hult Prize Competition
-
-PARTICIPATED IN HULT PRIZE COMPETITION , SAVING ENERGY PROJECTS.(2017-2018)
-
-
-## <span style ="color:blue"> **projects**
-- **NLP Projects**
-     - **SENTIMENTAL ANALYSIS :*
-    PERFORMED SENTIMENT ANALYSIS TO CLASSIFY POSTS AS POSITIVE, NEGATIVE, OR NEUTRAL USING PYSPARK SOURCE
-CODE IN GITHUB
-     - *TOPIC MODELING TO FIND THE RELATED ARTICLES :*
-    BUILT A SEARCH ENGINE TO GET THE NEAREST ARTICLES RELEVANT TO YOUR QUESTIONS ABOUT COVID 19 USING NLP
-    AND MACHINE LEARNING KAGGLE NOTEBOOK
-     - *NASA SEARCH ENGINE :*
-    BUILT A SEARCH ENGINE TO GET THE NEAREST ARTICLES RELEVANT TO YOUR QUESTIONS ABOUT NATURAL DISASTERS .WE
-    COLLECT NASA DATA THROUGH WEB-SCRAPING THEN USE NLP TO FIND ARTICLES KAGGLE NOTEBOOK
-
-- **Machine Learning Projects**
-     - *COVID 19 OUTCOME PREDICTION :*
-THIS PROJECT WILL HELP TO IDENTIFY WHETHER A PERSON IS GOING TO RECOVER FROM CORONAVIRUS SYMPTOMS OR
-NOT BASED ON SOME PRE-DEFINED STANDARD SYMPTOMS. IN THIS PROJECT, WE TUNED DIFFERENT CLASSIFIERS: 1.
-K-NEAREST NEIGHBORS (KNN) 2. LOGISTIC REGRESSION 3. NAïVE BAYES 4. DECISION TREES 5. SUPPORT VECTOR
-MACHINES (SVM) AND CHOSE THE BEST ONE SOURCE CODE IN GITHUB
-     - *CANCER BREAST CLASSIFICATION USING CNN MODEL :*
-BUILT A CNN MODEL USING PYTHON TO CLASSIFY BREAST CANCER (BENIGN OR MALIGNANT) SOURCE CODE IN KAGGLE
-     - *HOSPITAL READMISSION USING MACHINE LEARNING :*
-BUILT A MACHINE LEARNING MODEL USING R TO REDUCE THE RISK OF DIABETES - READMISSION WITHIN 30 DAYS SOURCE
-CODE IN GITHUB
-     - *DIABETICS PREDICTION USING MACHINE LEARNING :*
-BUILT A MACHINE LEARNING MODEL USING R TO PREDICT THE RISK OF DIABETES AND HELP IN EARLY DIAGNOSIS OF DIABETES SOURCE CODE IN GITHUB
-- **Computer vision Projects**
-     - *FACE RECOGNITION USING PCA :*
-BUILT PCA FROM SCRATCH USING PYTHON TO REDUCE THE FEATURE DIMENSIONAL THEN RECOGNIZE FACES USING MACHINE LEARNING MODEL
-     - HOUGH TRANSFORM CIRCLE DETECTION :
-BUILT HOUGH TRANSFORM ALGORITHM USING PYTHON FROM SCRATCH
-     - IMAGE FILTERS :
-IMPLEMENTED DIFFERENT TYPE OF FILTERS USING PYTHON FROM SCRATCH SUCH GAUSSIAN FILTER, MEDIAN FILTER AND
-MEAN FILTER
-- **DSP Projects**
-     - *SOUND EQUALIZER APPLICATION :*
-BUILT A PYTHON SOUND EQUALIZER APPLICATION SOURCE CODE IN GITHUB
-     - *SHAZAM-LIKE APPLICATION :*
-A PYTHON APPLICATION LIKE SHAZAM WHICH TAKES A SONG AND SEARCH IN THE DATABASE WITH SONG FINGERPRINT TO
-EXTRACT THE MOST 10 SONGS SIMILAR TO INPUT SONG SOURCE CODE IN GITHUB
-     - *MUSICAL INSTRUMENTS IMPLEMENTATION*
-IMPLEMENTED GUITAR AND PIANO INSTRUMENTS USING PYTHON SOURCE CODE IN GITHUB
-- **Web Applications**
-     - *CMMS WEBSITE :*
-BUILT A CLINICAL ENGINEERING COMPUTERIZED MAINTENANCE MANAGEMENT SYSTEM WEBSITE USING FLASK TO HELP
-CLINICAL ENGINEERING IN COORDINATING THEIR MAINTENANCE APPOINTMENTS AND BEING A WARE OF ALL MEDICAL
-DEVICES IN THE HOSPITAL SOURCE CODE IN GITHUB
-     - *WEB APPLICATION FOR A HOSPITAL ”SURGERY DEPARTMENT.”:*
-BUILT A WEB HOSPITAL SURGERY DEPARTMENT INFORMATION SYSTEM USING PYTHON AND MYSQL
-- **Hardware Projects**
-     - *SELF DRIVING CAR :*
-DESIGNING A PROTOTYPE OF SELF DRIVING CAR WHICH CAN AUTOMATICALLY DETECT LANE OR BE CONTROLLED MANUALLY
-USING MOBILE APPLICATION (WIRELESS COMMUNICATION )
-     - *SELF BALANCING ROBOT PROTOTYPE :*
-DESIGNING A PROTOTYPE USING ARDUINO AND GYROSCOPE SENSOR TO HELP THE DISABLED PEOPLE IN WALKING WITHOUT ANY HELP
-     - *CONTROLLED MOUSE MOTION WITH THE HEAD AND SPEECH RECOGNITION :*
-DESIGNING A PROTOTYPE USING ARDUINO AND GYROSCOPE SENSOR TO HELP PEOPLE WITH HAND DISABILITIES IN COMMUNICATING OR DEALING WITH COMPUTER USING SPEECH RECOGNITION AND MOTION OF HEAD
-     - *CONTROLLED MOUSE MOTION WITH THE HEAD AND SPEECH RECOGNITION :*
-DESIGNING A PROTOTYPE USING ARDUINO AND GYROSCOPE SENSOR TO HELP PEOPLE WITH HAND DISABILITIES IN COMMUNICATING OR DEALING WITH COMPUTER USING SPEECH RECOGNITION AND MOTION OF HEAD
-
-## <span style ="color:blue"> **Awards**
-
-- *1st place in NASA Space Apps Giza competition* : I TOOK A 1ST PLACE IN NASA SPACE APPS GIZA COMPETITION FOR BUILDING A SEARCH ENGINE TO FIND THE ARTICLES
-RELATED TO NASA DATA AND NATURAL DISASTERS
-
-- *1st place in STP’20 Machathon 1.1 Covid-19 competition* : I TOOK A 1ST PLACE IN STP’20 MACHATHON 1.1 COVID-19 COMPETITION FOR BUILDING A SEARCH ENGINE TO FIND THE
-ARTICLES RELATED TO YOUR QUESTION ABOUT COVID 19
-
-- *2nd place in NLP optomatica competition* : I TOOK A 2 ND PLACE IN NLP OPTOMATICA COMPETITION FOR BUILDING A RETRIEVAL CHAT BOT ON OPTOMATICA
-PLATFORM.
-- *2nd place in a robotic arm scientific research*: I TOOK A 2ND PLACE IN A ROBOTIC ARM SCIENTIFIC RESEARCH AND SIMULATE ITS MOTION IN 3D USING MATLAB GUI AT TECHNICAL CENTRE FOR CAREER DEVELOPMENT AT CAIRO UNIVERSITY
-
-## <span style ="color:blue">**Activities**
- 
-- *BEAT* (sep 2019 - june 2020): I WORKED AS A PR MEMBER. I WAS RESPONSIBLE FOR ESTABLISHING RELATIONSHIPS AMONG BEAT AND SPONSORS,
-INSTRUCTORS, COMPANIES, AND SO ON.
-
--  *Vector*(October 2018 - April 2019):  I WORKED AS PARTICIPANT IN K VECTOR’S ARDUNIO WORKSHOP . I LEARNT HOW TO READ DATA SHEET FOR ANY SENSOR TO
-DEAL WITH AND ARDUNIO AND ITS SPECIFICATIONS
-
-- *Embedded system laboratory*(October 2018 - April 2019):  I WORKED AS PARTICIPANT IN ESL’S C PROGRAMMING WORKSHOP.I LEARNT ALL ABOUT C LANGUAGE
+| Method       | Info                                                                                          |
+| ------------ | --------------------------------------------------------------------------------------------- |
+| **Email**    | [esraa.k.fouad@gmail.com](mailto:esraa.k.fouad@gmail.com)                                     |
+| **Phone**    | [+20 1003191020](tel:+201003191020)                                                           |
+| **Location** | Cairo, Egypt                                                                                  |
+| **LinkedIn** | [linkedin.com/in/esraa-khaled-3bb996153](https://www.linkedin.com/in/esraa-khaled-3bb996153/) |
+| **GitHub**   | [github.com/EsraaK-Fouad](https://github.com/EsraaK-Fouad)                                    |
+
+---
+
